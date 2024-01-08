@@ -1,0 +1,14 @@
+address: https://www.ozon.ru
+browser1: chrome
+browser2: firefox
+keyword1: "кофе"
+keyword2: "кофема"
+keyword3: "пылесос вертикальный"
+filtr1: "Сначала дешевые"
+filtr2: "По размеру скидки"
+filtr3: "Продукты питания"
+category1: "Одежда и обувь"
+category2: "Одежда"
+category3: "Рубашки"
+sleep_time: 3
+
